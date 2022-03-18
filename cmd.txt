@@ -1,0 +1,5 @@
+npm install typescript ts-node
+
+need to initialize that this is a typescript project
+
+npx tsc --init
